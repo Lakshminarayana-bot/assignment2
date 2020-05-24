@@ -7,6 +7,8 @@ function Model(props) {
                 <li>NAME:{props.name}</li>
                 <li>AGE:{props.age}</li>
                 <li>HOBBIE:{props.hobbie}</li>
+                <li>Branch:{props.branch}</li>
+                <li>POWER:{props.power}</li>
             </ul>
         </div>
     );
