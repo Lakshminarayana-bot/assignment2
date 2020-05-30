@@ -6,14 +6,14 @@ class Work extends Component {
         return (
             <div class="container-fluid">
       <div class="row">        
-      <div class="cols-xs-12" class="col-sm-6" class="col-md-6" class="col-lg-4">
+      <div class="cols-xs-12 col-sm-6 col-md-6 col-lg-4">
         <strong>Ironman</strong>
         <form>
           <Link to="/leela"><label>Leela</label></Link>
           <img class="image" src="/images/iron.png"/>
         </form>
       </div>
-      <div class="cols-xs-12" class="col-sm-6" class="col-md-6" class="col-lg-4">
+      <div class="cols-xs-12 col-sm-6 col-md-6 col-lg-4">
       <strong>John Wick</strong>
         <form>
           <label><Link to="/harsha">Harsha</Link></label>>
@@ -22,7 +22,7 @@ class Work extends Component {
       </div>
 
 
-      <div class="cols-xs-12" class="col-sm-6" class="col-md-6" class="col-lg-4">
+      <div class="cols-xs-12 col-sm-6 col-md-6 col-lg-4">
       <strong>Thor</strong>
         <form>
           <label><Link to="/chetan">Chetan</Link></label>>
@@ -32,7 +32,7 @@ class Work extends Component {
       </div>
       <div class="row">
 
-      <div class="cols-xs-12" class="col-sm-6" class="col-md-6" class="col-lg-4">
+      <div class="cols-xs-12 col-sm-6 col-md-6 col-lg-4">
       <strong>WonderWoman</strong>
         <form>
           <label><Link to="/sirisha">sirisha</Link></label>>
@@ -40,7 +40,7 @@ class Work extends Component {
       </form>
       </div>
 
-      <div class="cols-xs-12" class="col-sm-6" class="col-md-6" class="col-lg-4">
+      <div class="cols-xs-12 col-sm-6 col-md-6 col-lg-4">
       <strong>DoctorStrange</strong>
         <form>
           <label><Link to="/indu">Indu__</Link></label>>
@@ -48,7 +48,7 @@ class Work extends Component {
       </form>
       </div>
 
-      <div class="cols-xs-12" class="col-sm-6" class="col-md-6" class="col-lg-4">
+      <div class="cols-xs-12 col-sm-6 col-md-6 col-lg-4">
       <strong>CaptainMarvel</strong>
         <form>
           <label><Link to="/banu">Banu__</Link> </label>>
